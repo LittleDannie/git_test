@@ -1,0 +1,3 @@
+Hello Everyone, welcome to my lessons on The Odin Project. I am happy to have you here. 
+Please take a tour around and have fun
+Happy Adventure!
